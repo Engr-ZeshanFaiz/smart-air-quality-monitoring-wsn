@@ -1,0 +1,5 @@
+Location,Sensor_Type,Reading,Unit,Condition
+Urban_RYK,MQ135,145,PPM,Moderate
+Industrial_FFC,MQ135,480,PPM,High_Pollution
+Rural_Area,PMS5003,25,ug/m3,Clear
+Industrial_FFC,MQ7,115,PPM,Warning
