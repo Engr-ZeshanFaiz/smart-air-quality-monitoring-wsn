@@ -1,0 +1,15 @@
+group,site,temp_C,humidity_pct,mq135_raw_ppm_eq,mq7_raw_ppm_eq,pm1_0_ugm3,pm2_5_ugm3,pm10_ugm3
+Industrial,"FFC plant, site 2",18,53,2229,117,82,56,77
+Industrial,"FFC plant, site 2",17,57,2566,193,78,67,35
+Industrial,"FFC plant, site 2",19,61,2922,132,125,93,56
+Industrial,"FFC plant, site 2",21,69,1450,173,157,53,83
+Industrial,"FFC plant, site 2",23,56,3563,152,180,62,82
+Industrial,"FFC plant, site 2",26,42,3565,124,92,77,48
+Industrial,"FFC plant, site 2",25,63,2563,174,111,63,63
+Industrial,"FFC plant, site 2",27,56,3444,99,156,83,69
+Industrial,"FFC plant, site 2",29,41,2356,157,163,93,73
+Industrial,"FFC plant, site 2",33,50,2733,82,113,83,56
+Industrial,"FFC plant, site 2",34,68,1564,156,193,92,67
+Industrial,"FFC plant, site 2",36,45,2568,110,164,63,82
+Industrial,"FFC plant, site 2",39,37,2670,101,198,92,55
+Industrial,"FFC plant, site 2",42,58,2874,93,143,110,39

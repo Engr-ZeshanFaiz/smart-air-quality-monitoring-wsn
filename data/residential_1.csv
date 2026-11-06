@@ -1,0 +1,10 @@
+group,site,temp_C,humidity_pct,mq135_raw_ppm_eq,mq7_raw_ppm_eq,pm1_0_ugm3,pm2_5_ugm3,pm10_ugm3
+Residential,Residential area 1,21,42,153,22,73,24,42
+Residential,Residential area 1,23,65,189,25,44,43,56
+Residential,Residential area 1,22,53,245,24,36,37,61
+Residential,Residential area 1,27,42,234,35,67,26,39
+Residential,Residential area 1,25,41,256,21,46,53,44
+Residential,Residential area 1,31,64,167,34,85,45,25
+Residential,Residential area 1,34,52,194,29,32,62,55
+Residential,Residential area 1,39,45,246,23,94,21,49
+Residential,Residential area 1,40,57,184,38,35,43,32

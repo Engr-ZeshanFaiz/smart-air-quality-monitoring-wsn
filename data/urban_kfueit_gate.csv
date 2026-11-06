@@ -1,0 +1,12 @@
+group,site,temp_C,humidity_pct,mq135_raw_ppm_eq,mq7_raw_ppm_eq,pm1_0_ugm3,pm2_5_ugm3,pm10_ugm3
+Urban,"KFUEIT main gate, RYK",18,46,486,841,139,23,226
+Urban,"KFUEIT main gate, RYK",19,57,389,904,252,32,390
+Urban,"KFUEIT main gate, RYK",21,52,346,793,199,103,268
+Urban,"KFUEIT main gate, RYK",20,40,303,850,168,270,147
+Urban,"KFUEIT main gate, RYK",24,82,303,862,93,233,243
+Urban,"KFUEIT main gate, RYK",27,52,206,900,79,209,316
+Urban,"KFUEIT main gate, RYK",29,69,322,1071,139,264,345
+Urban,"KFUEIT main gate, RYK",32,43,288,963,83,197,439
+Urban,"KFUEIT main gate, RYK",36,55,333,1227,147,300,287
+Urban,"KFUEIT main gate, RYK",39,31,252,976,52,279,195
+Urban,"KFUEIT main gate, RYK",41,38,350,897,38,254,315

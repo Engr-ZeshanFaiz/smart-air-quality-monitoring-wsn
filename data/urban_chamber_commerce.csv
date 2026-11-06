@@ -1,0 +1,7 @@
+group,site,temp_C,humidity_pct,mq135_raw_ppm_eq,mq7_raw_ppm_eq,pm1_0_ugm3,pm2_5_ugm3,pm10_ugm3
+Urban,"Chamber of Commerce, RYK",29,71,254,57,34,57,203
+Urban,"Chamber of Commerce, RYK",30,44,162,52,50,130,228
+Urban,"Chamber of Commerce, RYK",35,23,243,38,154,288,449
+Urban,"Chamber of Commerce, RYK",35,62,305,34,172,156,285
+Urban,"Chamber of Commerce, RYK",36,29,314,41,73,267,374
+Urban,"Chamber of Commerce, RYK",43,41,154,51,181,103,328

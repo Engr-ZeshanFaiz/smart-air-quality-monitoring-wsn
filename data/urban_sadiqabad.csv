@@ -1,0 +1,12 @@
+group,site,temp_C,humidity_pct,mq135_raw_ppm_eq,mq7_raw_ppm_eq,pm1_0_ugm3,pm2_5_ugm3,pm10_ugm3
+Urban,Urban Sadiqabad,16,19,597,619,95,217,232
+Urban,Urban Sadiqabad,20,18,426,777,6,63,147
+Urban,Urban Sadiqabad,23,23,677,526,13,159,150
+Urban,Urban Sadiqabad,24,32,672,778,59,41,170
+Urban,Urban Sadiqabad,28,36,498,899,100,132,222
+Urban,Urban Sadiqabad,32,54,565,864,95,34,300
+Urban,Urban Sadiqabad,33,51,402,592,172,110,254
+Urban,Urban Sadiqabad,32,48,395,630,28,118,183
+Urban,Urban Sadiqabad,37,27,532,974,59,253,360
+Urban,Urban Sadiqabad,39,80,354,481,166,241,200
+Urban,Urban Sadiqabad,41,72,681,731,113,191,456

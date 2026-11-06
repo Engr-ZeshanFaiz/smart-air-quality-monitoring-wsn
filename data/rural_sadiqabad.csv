@@ -1,0 +1,12 @@
+group,site,temp_C,humidity_pct,mq135_raw_ppm_eq,mq7_raw_ppm_eq,pm1_0_ugm3,pm2_5_ugm3,pm10_ugm3
+Rural,Rural area near Sadiqabad,16,67,346,27,23,19,296
+Rural,Rural area near Sadiqabad,19,72,366,28,25,17,329
+Rural,Rural area near Sadiqabad,18,67,302,29,17,27,393
+Rural,Rural area near Sadiqabad,22,63,380,33,23,20,185
+Rural,Rural area near Sadiqabad,20,57,315,22,33,35,301
+Rural,Rural area near Sadiqabad,24,53,281,32,21,29,165
+Rural,Rural area near Sadiqabad,27,27,322,35,40,26,172
+Rural,Rural area near Sadiqabad,31,43,322,38,24,31,181
+Rural,Rural area near Sadiqabad,35,59,329,56,20,36,375
+Rural,Rural area near Sadiqabad,37,55,253,68,26,25,139
+Rural,Rural area near Sadiqabad,41,19,259,45,31,30,190

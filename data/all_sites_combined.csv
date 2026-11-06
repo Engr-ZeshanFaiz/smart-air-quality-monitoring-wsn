@@ -1,0 +1,126 @@
+group,site,temp_C,humidity_pct,mq135_raw_ppm_eq,mq7_raw_ppm_eq,pm1_0_ugm3,pm2_5_ugm3,pm10_ugm3
+Rural,Rural area near Sadiqabad,16,67,346,27,23,19,296
+Rural,Rural area near Sadiqabad,19,72,366,28,25,17,329
+Rural,Rural area near Sadiqabad,18,67,302,29,17,27,393
+Rural,Rural area near Sadiqabad,22,63,380,33,23,20,185
+Rural,Rural area near Sadiqabad,20,57,315,22,33,35,301
+Rural,Rural area near Sadiqabad,24,53,281,32,21,29,165
+Rural,Rural area near Sadiqabad,27,27,322,35,40,26,172
+Rural,Rural area near Sadiqabad,31,43,322,38,24,31,181
+Rural,Rural area near Sadiqabad,35,59,329,56,20,36,375
+Rural,Rural area near Sadiqabad,37,55,253,68,26,25,139
+Rural,Rural area near Sadiqabad,41,19,259,45,31,30,190
+Rural,"Rural area, Goth Machhi",17,82,261,29,43,23,221
+Rural,"Rural area, Goth Machhi",19,72,266,28,135,27,329
+Rural,"Rural area, Goth Machhi",22,38,222,20,78,21,320
+Rural,"Rural area, Goth Machhi",22,50,218,32,166,26,342
+Rural,"Rural area, Goth Machhi",27,30,165,36,153,24,230
+Rural,"Rural area, Goth Machhi",29,37,233,46,126,33,289
+Rural,"Rural area, Goth Machhi",31,58,354,30,77,34,363
+Rural,"Rural area, Goth Machhi",32,66,240,28,137,45,284
+Rural,"Rural area, Goth Machhi",31,50,152,38,81,40,444
+Rural,"Rural area, Goth Machhi",36,21,181,29,53,39,375
+Rural,"Rural area, Goth Machhi",38,67,333,27,144,29,468
+Urban,Urban Sadiqabad,16,19,597,619,95,217,232
+Urban,Urban Sadiqabad,20,18,426,777,6,63,147
+Urban,Urban Sadiqabad,23,23,677,526,13,159,150
+Urban,Urban Sadiqabad,24,32,672,778,59,41,170
+Urban,Urban Sadiqabad,28,36,498,899,100,132,222
+Urban,Urban Sadiqabad,32,54,565,864,95,34,300
+Urban,Urban Sadiqabad,33,51,402,592,172,110,254
+Urban,Urban Sadiqabad,32,48,395,630,28,118,183
+Urban,Urban Sadiqabad,37,27,532,974,59,253,360
+Urban,Urban Sadiqabad,39,80,354,481,166,241,200
+Urban,Urban Sadiqabad,41,72,681,731,113,191,456
+Urban,"KFUEIT main gate, RYK",18,46,486,841,139,23,226
+Urban,"KFUEIT main gate, RYK",19,57,389,904,252,32,390
+Urban,"KFUEIT main gate, RYK",21,52,346,793,199,103,268
+Urban,"KFUEIT main gate, RYK",20,40,303,850,168,270,147
+Urban,"KFUEIT main gate, RYK",24,82,303,862,93,233,243
+Urban,"KFUEIT main gate, RYK",27,52,206,900,79,209,316
+Urban,"KFUEIT main gate, RYK",29,69,322,1071,139,264,345
+Urban,"KFUEIT main gate, RYK",32,43,288,963,83,197,439
+Urban,"KFUEIT main gate, RYK",36,55,333,1227,147,300,287
+Urban,"KFUEIT main gate, RYK",39,31,252,976,52,279,195
+Urban,"KFUEIT main gate, RYK",41,38,350,897,38,254,315
+Urban,"Outside EE Dept., KFUEIT",28,68,238,36,122,167,51
+Urban,"Outside EE Dept., KFUEIT",30,23,309,29,112,209,224
+Urban,"Outside EE Dept., KFUEIT",31,56,309,21,71,232,333
+Urban,"Outside EE Dept., KFUEIT",32,67,196,38,88,88,287
+Urban,"Outside EE Dept., KFUEIT",33,46,171,35,167,25,128
+Urban,"Outside EE Dept., KFUEIT",35,25,341,26,153,109,247
+Urban,"Outside EE Dept., KFUEIT",36,41,349,45,123,146,213
+Urban,"Outside EE Dept., KFUEIT",37,35,189,34,71,91,443
+Urban,"Outside EE Dept., KFUEIT",39,33,298,33,84,272,422
+Urban,"Outside EE Dept., KFUEIT",40,38,310,35,193,173,202
+Urban,"Outside EE Dept., KFUEIT",42,18,215,24,142,131,305
+Urban,"Chamber of Commerce, RYK",29,71,254,57,34,57,203
+Urban,"Chamber of Commerce, RYK",30,44,162,52,50,130,228
+Urban,"Chamber of Commerce, RYK",35,23,243,38,154,288,449
+Urban,"Chamber of Commerce, RYK",35,62,305,34,172,156,285
+Urban,"Chamber of Commerce, RYK",36,29,314,41,73,267,374
+Urban,"Chamber of Commerce, RYK",43,41,154,51,181,103,328
+Industrial,"FFC plant, site 1",19,56,2205,103,127,67,43
+Industrial,"FFC plant, site 1",18,59,2918,96,85,44,54
+Industrial,"FFC plant, site 1",19,69,2277,125,63,89,62
+Industrial,"FFC plant, site 1",23,67,1330,139,162,57,58
+Industrial,"FFC plant, site 1",24,42,3353,104,120,40,33
+Industrial,"FFC plant, site 1",25,32,3345,129,71,88,72
+Industrial,"FFC plant, site 1",25,41,2983,154,83,59,42
+Industrial,"FFC plant, site 1",24,38,2344,96,112,38,64
+Industrial,"FFC plant, site 1",31,30,2327,145,102,61,82
+Industrial,"FFC plant, site 1",33,36,3011,120,94,83,60
+Industrial,"FFC plant, site 1",34,50,1223,73,74,74,79
+Industrial,"FFC plant, site 1",35,20,2334,106,117,56,32
+Industrial,"FFC plant, site 1",37,38,3298,138,85,91,87
+Industrial,"FFC plant, site 1",40,38,2350,99,98,38,25
+Industrial,"FFC plant, site 1",43,47,2154,85,181,103,38
+Industrial,"FFC plant, site 2",18,53,2229,117,82,56,77
+Industrial,"FFC plant, site 2",17,57,2566,193,78,67,35
+Industrial,"FFC plant, site 2",19,61,2922,132,125,93,56
+Industrial,"FFC plant, site 2",21,69,1450,173,157,53,83
+Industrial,"FFC plant, site 2",23,56,3563,152,180,62,82
+Industrial,"FFC plant, site 2",26,42,3565,124,92,77,48
+Industrial,"FFC plant, site 2",25,63,2563,174,111,63,63
+Industrial,"FFC plant, site 2",27,56,3444,99,156,83,69
+Industrial,"FFC plant, site 2",29,41,2356,157,163,93,73
+Industrial,"FFC plant, site 2",33,50,2733,82,113,83,56
+Industrial,"FFC plant, site 2",34,68,1564,156,193,92,67
+Industrial,"FFC plant, site 2",36,45,2568,110,164,63,82
+Industrial,"FFC plant, site 2",39,37,2670,101,198,92,55
+Industrial,"FFC plant, site 2",42,58,2874,93,143,110,39
+Residential,Residential area 1,21,42,153,22,73,24,42
+Residential,Residential area 1,23,65,189,25,44,43,56
+Residential,Residential area 1,22,53,245,24,36,37,61
+Residential,Residential area 1,27,42,234,35,67,26,39
+Residential,Residential area 1,25,41,256,21,46,53,44
+Residential,Residential area 1,31,64,167,34,85,45,25
+Residential,Residential area 1,34,52,194,29,32,62,55
+Residential,Residential area 1,39,45,246,23,94,21,49
+Residential,Residential area 1,40,57,184,38,35,43,32
+Residential,Residential area 2,20,65,163,21,64,34,52
+Residential,Residential area 2,22,34,184,26,57,27,45
+Residential,Residential area 2,24,51,291,32,35,63,36
+Residential,Residential area 2,27,33,246,29,83,48,61
+Residential,Residential area 2,25,58,263,24,57,52,45
+Residential,Residential area 2,32,36,182,23,94,56,32
+Residential,Residential area 2,35,45,163,29,72,68,53
+Residential,Residential area 2,38,67,273,35,83,34,49
+Residential,Residential area 2,41,55,152,39,31,67,31
+Initial test,Initial ThingSpeak test log,27,25,420,390,12,22,78
+Initial test,Initial ThingSpeak test log,28,26,410,395,13,25,80
+Initial test,Initial ThingSpeak test log,29,27,430,400,24,23,76
+Initial test,Initial ThingSpeak test log,30,28,420,385,25,22,64
+Initial test,Initial ThingSpeak test log,31,29,410,385,15,32,78
+Initial test,Initial ThingSpeak test log,32,30,390,380,16,24,81
+Initial test,Initial ThingSpeak test log,33,31,400,380,26,35,87
+Initial test,Initial ThingSpeak test log,26,20,340,335,14,23,75
+Initial test,Initial ThingSpeak test log,27,21,345,335,11,22,70
+Initial test,Initial ThingSpeak test log,28,22,360,335,13,19,67
+Initial test,Initial ThingSpeak test log,29,23,345,335,15,19,63
+Initial test,Initial ThingSpeak test log,30,24,350,335,11,23,59
+Initial test,Initial ThingSpeak test log,31,25,350,335,19,24,65
+Initial test,Initial ThingSpeak test log,32,26,345,335,26,24,82
+Initial test,Initial ThingSpeak test log,33,27,350,335,30,39,93
+Initial test,Initial ThingSpeak test log,26,28,350,335,22,34,76
+Initial test,Initial ThingSpeak test log,27,29,350,335,17,29,73

@@ -1,0 +1,12 @@
+group,site,temp_C,humidity_pct,mq135_raw_ppm_eq,mq7_raw_ppm_eq,pm1_0_ugm3,pm2_5_ugm3,pm10_ugm3
+Rural,"Rural area, Goth Machhi",17,82,261,29,43,23,221
+Rural,"Rural area, Goth Machhi",19,72,266,28,135,27,329
+Rural,"Rural area, Goth Machhi",22,38,222,20,78,21,320
+Rural,"Rural area, Goth Machhi",22,50,218,32,166,26,342
+Rural,"Rural area, Goth Machhi",27,30,165,36,153,24,230
+Rural,"Rural area, Goth Machhi",29,37,233,46,126,33,289
+Rural,"Rural area, Goth Machhi",31,58,354,30,77,34,363
+Rural,"Rural area, Goth Machhi",32,66,240,28,137,45,284
+Rural,"Rural area, Goth Machhi",31,50,152,38,81,40,444
+Rural,"Rural area, Goth Machhi",36,21,181,29,53,39,375
+Rural,"Rural area, Goth Machhi",38,67,333,27,144,29,468

@@ -1,0 +1,12 @@
+group,site,temp_C,humidity_pct,mq135_raw_ppm_eq,mq7_raw_ppm_eq,pm1_0_ugm3,pm2_5_ugm3,pm10_ugm3
+Urban,"Outside EE Dept., KFUEIT",28,68,238,36,122,167,51
+Urban,"Outside EE Dept., KFUEIT",30,23,309,29,112,209,224
+Urban,"Outside EE Dept., KFUEIT",31,56,309,21,71,232,333
+Urban,"Outside EE Dept., KFUEIT",32,67,196,38,88,88,287
+Urban,"Outside EE Dept., KFUEIT",33,46,171,35,167,25,128
+Urban,"Outside EE Dept., KFUEIT",35,25,341,26,153,109,247
+Urban,"Outside EE Dept., KFUEIT",36,41,349,45,123,146,213
+Urban,"Outside EE Dept., KFUEIT",37,35,189,34,71,91,443
+Urban,"Outside EE Dept., KFUEIT",39,33,298,33,84,272,422
+Urban,"Outside EE Dept., KFUEIT",40,38,310,35,193,173,202
+Urban,"Outside EE Dept., KFUEIT",42,18,215,24,142,131,305

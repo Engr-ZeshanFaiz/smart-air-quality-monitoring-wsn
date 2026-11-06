@@ -1,0 +1,18 @@
+group,site,temp_C,humidity_pct,mq135_raw_ppm_eq,mq7_raw_ppm_eq,pm1_0_ugm3,pm2_5_ugm3,pm10_ugm3
+Initial test,Initial ThingSpeak test log,27,25,420,390,12,22,78
+Initial test,Initial ThingSpeak test log,28,26,410,395,13,25,80
+Initial test,Initial ThingSpeak test log,29,27,430,400,24,23,76
+Initial test,Initial ThingSpeak test log,30,28,420,385,25,22,64
+Initial test,Initial ThingSpeak test log,31,29,410,385,15,32,78
+Initial test,Initial ThingSpeak test log,32,30,390,380,16,24,81
+Initial test,Initial ThingSpeak test log,33,31,400,380,26,35,87
+Initial test,Initial ThingSpeak test log,26,20,340,335,14,23,75
+Initial test,Initial ThingSpeak test log,27,21,345,335,11,22,70
+Initial test,Initial ThingSpeak test log,28,22,360,335,13,19,67
+Initial test,Initial ThingSpeak test log,29,23,345,335,15,19,63
+Initial test,Initial ThingSpeak test log,30,24,350,335,11,23,59
+Initial test,Initial ThingSpeak test log,31,25,350,335,19,24,65
+Initial test,Initial ThingSpeak test log,32,26,345,335,26,24,82
+Initial test,Initial ThingSpeak test log,33,27,350,335,30,39,93
+Initial test,Initial ThingSpeak test log,26,28,350,335,22,34,76
+Initial test,Initial ThingSpeak test log,27,29,350,335,17,29,73
