@@ -1,0 +1,14 @@
+item,quantity,role,lowest_listing_PKR,highest_listing_PKR,notes
+Arduino Uno R3,1,Main controller,1250,1900,
+ESP8266 Wi-Fi module (ESP-07/ESP-01 type),1,Wi-Fi telemetry to ThingSpeak,350,350,NodeMCU boards cost more (not priced)
+ESP32-CAM,1,Image acquisition,1480,1950,
+MQ-7 sensor module,1,Carbon monoxide (relative),350,400,Needs 24-48 h burn-in
+MQ-135 sensor module,1,Air-quality indicator (relative),300,438,Not a CO2 sensor
+PMS5003,1,PM1.0/PM2.5/PM10,4950,5800,See README data-quality note
+DHT11 module,1,Temperature and humidity,250,350,
+SD-card SPI module,1,Optional local logging,147,220,
+Perfboard + headers + wiring,1 set,Assembly,,,Fill from receipt
+Power supply or battery pack with regulation,1,5-12 V DC,,,Fill from receipt
+Ventilated transparent enclosure,1,Housing,,,Fill from receipt
+SUBTOTAL (8 priced items),,,9077,11408,"Pakistani online retailers, Nov 2026, excl. shipping/tax"
+TOTAL EXPENDITURE per node (all items incl. delivery; reported by the authors),,,23000,23000,Enclosure/power/wiring/delivery/other not itemised
