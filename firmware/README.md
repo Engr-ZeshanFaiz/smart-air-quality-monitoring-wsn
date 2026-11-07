@@ -1,10 +1,7 @@
 # Firmware
 
-**Upload here the sketch that was actually used for the field data** (Arduino IDE 2.3.6, Arduino Uno + ESP8266 over
-SoftwareSerial, PMS5003, MQ-7, MQ-135, DHT11, ThingSpeak upload). The file `Smart_Air_Monitor_Code.ino` in this
-folder is only a 30-line serial-print test (DHT11 + two analogue reads) and does not contain PMS5003 or Wi-Fi/ThingSpeak code.
+`reference_firmware/air_node_reference.ino` is a reference implementation of the node's acquisition and ThingSpeak upload logic
+(Arduino Uno + ESP8266 AT commands + PMS5003 + MQ-7 + MQ-135 + DHT11). The sketch used during the field campaign was not archived.
+Read `reference_firmware/README.md` before use. If the original sketch is recovered, add it here and say which campaign it covers.
 
-## Rules before uploading
-1. **Never commit Wi-Fi passwords or ThingSpeak API keys.** Use placeholders as in `credentials_example.h`.
-2. Pin mapping must match the real wiring (see `Documentation/BUILD_GUIDE.md`).
-3. State the Arduino IDE version and libraries used.
+Rules: never commit Wi-Fi passwords or API keys (use `credentials_example.h` -> `credentials.h`, which must not be uploaded).
