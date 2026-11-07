@@ -7,14 +7,14 @@ Authors: Zeshan Faiz (corresponding), Muhammad Salaar Haider, Gul e Zahrah, Farh
 
 | Folder | Content |
 |---|---|
-| `Hardware/` | Block diagram, circuit schematic, photos, enclosure notes |
-| `Firmware/` | Arduino sketch(es) |
-| `Matlab/` | Smog classifier |
-| `Data/` | Field data (CSV) |
-| `Documentation/` | `BOM.csv`, `BUILD_GUIDE.md` |
+| `hardware/` | Block diagram, circuit schematic, photos, enclosure notes |
+| `firmware/` | Arduino sketch(es) |
+| `matlab/` | Smog classifier |
+| `data/` | Field data (CSV) |
+| `documentation/` | `BOM.csv`, `BUILD_GUIDE.md` |
 
 ## Limitations (read first)
-Gas-sensor values are uncalibrated relative indicators. PMS5003 data fail a basic consistency check in 74% of samples. Not a life-safety CO alarm.
+Gas-sensor values are uncalibrated relative indicators. PMS5003 data fail a basic consistency check in 74% of samples. The firmware in `firmware/reference_firmware` is a reference implementation (the original field sketch was not archived) and must be validated on your node. Not a life-safety CO alarm.
 
 ## Licences
-Software: MIT (`LICENSE`). Hardware: CERN-OHL-W (add `Hardware/LICENSE-CERN-OHL-W.txt` from https://cern-ohl.web.cern.ch). Documentation and data: CC-BY 4.0.
+Software: MIT (`LICENSE`). Hardware: CERN-OHL-W (add `hardware/LICENSE-CERN-OHL-W.txt` from https://cern-ohl.web.cern.ch). Documentation and data: CC-BY 4.0.
