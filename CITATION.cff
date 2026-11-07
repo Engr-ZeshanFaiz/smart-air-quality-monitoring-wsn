@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this hardware, please cite the archived release."
+title: "Open-source IoT node for air quality monitoring and image-based smog detection in wireless sensor networks"
+authors:
+  - family-names: Faiz
+    given-names: Zeshan
+  - family-names: Haider
+    given-names: Muhammad Salaar
+  - family-names: Zahrah
+    given-names: Gul e
+  - family-names: Faiz
+    given-names: Farhan
+  - family-names: Hassan
+    given-names: Arslan
+repository-code: "https://github.com/Engr-ZeshanFaiz/smart-air-quality-monitoring-wsn"
+license: MIT
